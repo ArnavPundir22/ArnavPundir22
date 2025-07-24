@@ -37,7 +37,7 @@
 
 ### 📫 How to Reach Me:
 - ✉️ **Email:** arnavp128@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/arnavpundir22](https://www.linkedin.com/in/arnavpundir22/)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/arnavpundir22/](https://www.linkedin.com/in/arnav-pundir128ap)
 - 🖥️ **Web Site:** [Arnav Pundir](https://arnavpundir22.github.io/)
 ---
 
