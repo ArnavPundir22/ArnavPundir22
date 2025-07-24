@@ -89,10 +89,12 @@
   🗓️ 2024–2028
 
 - **Senior Secondary (CBSE)**  
-  *Montfort School Roorkee*  
+  *Atal Utkrisht G.I.C Roorkee*
+  🗓️ 2024
 
 - **Matriculation (CBSE)**  
-  *Atal Utkrisht G.I.C Roorkee*  
+  *Montfort School Roorkee*
+  🗓️ 2022  
 
 
 ---
