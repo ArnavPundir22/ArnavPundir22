@@ -102,9 +102,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavPundir22&theme=github_dark_dimmed&hide_border=false&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavPundir22&theme=github_dark_dimmed&hide_border=false&show_icons=true" />
-  <img src="https://streak-stats.demolab.com?user=ArnavPundir22&theme=github_dark_dimmed&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavPundir22&theme=github_dark_dimmed&hide_border=trye&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnavPundir22&theme=github_dark_dimmed&hide_border=true&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=ArnavPundir22&theme=github_dark_dimmed&hide_border=true" />
 </div>
 
 
