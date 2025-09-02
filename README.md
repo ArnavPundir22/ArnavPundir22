@@ -23,7 +23,6 @@
 - 🤖 **Voice-Controlled Coding Assistant (Desktop)**
 - 📄 **Gemini DocBot** — Summarize docs & answer queries
 - 🎵 **Emotion-Based Music Recommendation System**
-- 💻 **D-Coders Squad Official Website**
 - 👁️ **Face Recognition + Anti-Spoofing Attendance System**
 
 ---
