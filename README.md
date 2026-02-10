@@ -20,9 +20,9 @@
 ---
 
 ### 🚀 Projects I'm Working On:
-- 🤖 **Voice-Controlled Coding Assistant (Desktop)**
-- 📄 **Gemini DocBot** — Summarize docs & answer queries
-- 🎵 **Emotion-Based Music Recommendation System**
+- 🤖 **American Sign Language Translator** - by detecting hand gesture predicts the words person is saying
+- 📄 **Aer Kalam** — Detects hand movement and draws with pen without touching system
+- 🎵 **Hand Written Digit Detection System** - system processes the image and predicts the digit
 - 👁️ **Face Recognition + Anti-Spoofing Attendance System**
 
 ---
