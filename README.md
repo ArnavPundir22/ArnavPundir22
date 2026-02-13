@@ -1,8 +1,9 @@
 <!-- GitHub Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Arnav%20Pundir&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=AI%20%26%20Computer%20Vision%20Engineer;%E2%80%9CTeaching%20machines%20to%20see%20is%20the%20first%20step%20toward%20making%20them%20understand.%22" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=AI%20%26%20Computer%20Vision%20Engineer;Vision%20is%20the%20new%20interface.;AI%20isn%E2%80%99t%20magic%20%E2%80%94%20it%E2%80%99s%20mathematics%20with%20ambition.;Code.%20Train.%20Predict.%20Repeat." alt="Typing introduction" />
 </p>
 
 <p align="center">
