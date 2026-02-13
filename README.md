@@ -1,21 +1,17 @@
 <!-- GitHub Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="900" height="500" >
-</p>
-
-<h1 align="center">Hey there! 👋 I'm <strong>Arnav Pundir</strong></h1>
-
-**An enthusiastic and fast-evolving Computer Science Engineering student at COER University. I'm deeply passionate about building intelligent systems and powerful full-stack applications. Currently exploring the world of AI, system automation, and interactive desktop tools to solve real-world problems. I'm on a mission to become a skilled Full-Stack AI Developer and create meaningful tech.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Arnav%20Pundir&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quote">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=AI%20%26%20Computer%20Vision%20Engineer;%E2%80%9CTeaching%20machines%20to%20see%20is%20the%20first%20step%20toward%20making%20them%20understand.%22" alt="Typing introduction" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ArnavPundir22&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ArnavPundir22">
+    <img src="https://komarev.com/ghpvc/?username=ArnavPundir22&label=Profile%20views&color=00FFFF&style=flat-square" alt="ArnavPundir22's profile views" />
+  </a>
 </p>
 
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="500" />
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
 ---
 
